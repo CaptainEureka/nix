@@ -3,27 +3,27 @@
 {
   alacritty = {
     pname = "alacritty";
-    version = "071d73effddac392d5b9b8cd5b4b527a6cf289f9";
+    version = "94800165c13998b600a9da9d29c330de9f28618e";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "alacritty";
-      rev = "071d73effddac392d5b9b8cd5b4b527a6cf289f9";
+      rev = "94800165c13998b600a9da9d29c330de9f28618e";
       fetchSubmodules = false;
-      sha256 = "sha256-HiIYxTlif5Lbl9BAvPsnXp8WAexL8YuohMDd/eCJVQ8=";
+      sha256 = "sha256-Pi1Hicv3wPALGgqurdTzXEzJNx7vVh+8B9tlqhRpR2Y=";
     };
-    date = "2024-02-26";
+    date = "2024-04-09";
   };
   bat = {
     pname = "bat";
-    version = "b19bea35a85a32294ac4732cad5b0dc6495bed32";
+    version = "d714cc1d358ea51bfc02550dabab693f70cccea0";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "bat";
-      rev = "b19bea35a85a32294ac4732cad5b0dc6495bed32";
+      rev = "d714cc1d358ea51bfc02550dabab693f70cccea0";
       fetchSubmodules = false;
-      sha256 = "sha256-POoW2sEM6jiymbb+W/9DKIjDM1Buu1HAmrNP0yC2JPg=";
+      sha256 = "sha256-Q5B4NDrfCIK3UAMs94vdXnR42k4AXCqZz6sRn8bzmf4=";
     };
-    date = "2024-03-14";
+    date = "2024-04-25";
   };
   bottom = {
     pname = "bottom";
@@ -111,15 +111,15 @@
   };
   foot = {
     pname = "foot";
-    version = "ee5549af72ab78520ac2aa1c671bf5c2d347c8ca";
+    version = "64ca6fb7a3e1e6867d76d6c0763e0b2d83fc4f01";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "foot";
-      rev = "ee5549af72ab78520ac2aa1c671bf5c2d347c8ca";
+      rev = "64ca6fb7a3e1e6867d76d6c0763e0b2d83fc4f01";
       fetchSubmodules = false;
-      sha256 = "sha256-3hK9klXwdHhprG2wUMt7nBfbL1mb/gl+k/MtJUuY000=";
+      sha256 = "sha256-Sg9R8EKYwK1RYWpeuCYraTk+BoyubHTIUk7IeMLuCw8=";
     };
-    date = "2024-01-18";
+    date = "2024-04-25";
   };
   gitui = {
     pname = "gitui";
@@ -159,15 +159,15 @@
   };
   gtk = {
     pname = "gtk";
-    version = "edef76faba00f1f8bd8311fc487f0f0b2670dd0d";
+    version = "9da440ced621d1bff58676efdcec9f64284c52a6";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "gtk";
-      rev = "edef76faba00f1f8bd8311fc487f0f0b2670dd0d";
+      rev = "9da440ced621d1bff58676efdcec9f64284c52a6";
       fetchSubmodules = false;
       sha256 = "sha256-pGL8vaE63ss2ZT2FoNDfDkeuCxjcbl02RmwwfHC/Vxg=";
     };
-    date = "2024-04-06";
+    date = "2024-04-20";
   };
   helix = {
     pname = "helix";
@@ -279,15 +279,15 @@
   };
   neovim = {
     pname = "neovim";
-    version = "aebe43db9cb26e1c70fc5b2fd4158169c405e720";
+    version = "a1439ad7c584efb3d0ce14ccb835967f030450fe";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "nvim";
-      rev = "aebe43db9cb26e1c70fc5b2fd4158169c405e720";
+      rev = "a1439ad7c584efb3d0ce14ccb835967f030450fe";
       fetchSubmodules = false;
-      sha256 = "sha256-GQjxE8lQj52pheJtHCS+9v2lsJY7wMj2IXVCoNRmQSQ=";
+      sha256 = "sha256-yTVou/WArEWygBBs2NFPI9Dm9iSGfwVftKFbOAGl8tk=";
     };
-    date = "2024-03-29";
+    date = "2024-04-14";
   };
   palette = {
     pname = "palette";
@@ -375,15 +375,15 @@
   };
   tmux = {
     pname = "tmux";
-    version = "5ed4e8a6a20c928688da268dfcdf460ac9c3cb49";
+    version = "a556353d60833367b13739e660d4057a96f2f4fe";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "tmux";
-      rev = "5ed4e8a6a20c928688da268dfcdf460ac9c3cb49";
+      rev = "a556353d60833367b13739e660d4057a96f2f4fe";
       fetchSubmodules = false;
-      sha256 = "sha256-k9Ihfk8C1jYkGUvOcgLwS4UdXR8d/4Nu/Dyh03FpDZc=";
+      sha256 = "sha256-i5rnMnkFGOWeRi38euttei/fVIxlrV6dQxemAM+LV0A=";
     };
-    date = "2024-03-30";
+    date = "2024-04-21";
   };
   yazi = {
     pname = "yazi";
